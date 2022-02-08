@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9350d23b-5eb3-4e5a-868e-9944c446fd49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/liug/ds/learn/behavior/chain/ChainPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="9350d23b-5eb3-4e5a-868e-9944c446fd49" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +154,7 @@
       <workItem from="1644236525894" duration="1955000" />
       <workItem from="1644239154845" duration="1156000" />
       <workItem from="1644341002313" duration="1618000" />
-      <workItem from="1644343464870" duration="1504000" />
+      <workItem from="1644343464870" duration="1580000" />
     </task>
     <servers />
   </component>
