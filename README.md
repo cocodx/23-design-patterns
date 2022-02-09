@@ -7,7 +7,7 @@
 饿汉式-普通写法  
 饿汉式-静态语句块  
 懒汉式-线程不安全  
-懒汉式-线程安全-直接synchronized
+懒汉式-线程安全-直接synchronized  
 懒汉式-线程安全-优化性能-双检synchronized
 
 ## 行为型behavior
