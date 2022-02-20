@@ -7,7 +7,7 @@ package liug.ds.learn.creational.builder;
  * 将一个复杂对象的构建
  * @date 20/2/2022 下午6:39
  */
-public class BuilderClassicPraticeDay1 {
+public class BuilderClassicPracticeDay1 {
 
     //实际要构建的对象
     public static class Computer{
