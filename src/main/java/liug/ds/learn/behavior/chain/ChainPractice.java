@@ -11,6 +11,8 @@ import java.util.Map;
  * @version 1.0
  * @description
  * @date 9/2/2022 上午1:46
+ *
+ * springmvc链式调用，拦截器或者过滤器
  */
 public class ChainPractice {
 
